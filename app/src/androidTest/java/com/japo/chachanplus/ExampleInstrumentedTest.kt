@@ -1,4 +1,4 @@
-package com.japo.chanplusplus
+package com.japo.chachanplus
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.japo.chanplusplus", appContext.packageName)
+        assertEquals("com.japo.chachanplus", appContext.packageName)
     }
 }

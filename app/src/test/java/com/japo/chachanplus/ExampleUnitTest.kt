@@ -1,4 +1,4 @@
-package com.japo.chanplusplus
+package com.japo.chachanplus
 
 import org.junit.Test
 
